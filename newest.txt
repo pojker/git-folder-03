@@ -1,0 +1,7 @@
+
+First line in newest. txt
+
+another line
+EDIT on branch master
+EDIT on branch newest-02 and again
+EDIT on master
